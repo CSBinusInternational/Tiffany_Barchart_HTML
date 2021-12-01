@@ -2,7 +2,6 @@
 - Tiffany Widjaja 2502059360
 - Class: L1CC
 - Course: HCI (COMP6800001)
-- 
 # Live link:
 https://pandalmation.github.io/Tiffany_Barchart_HTML/
 # Directory:
