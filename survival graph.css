@@ -1,0 +1,85 @@
+body{
+    background-image:url('https://www.wallpapertip.com/wmimgs/7-70482_hd-wallpaper-titanic-iceberg.jpg');
+    background-size:cover;
+    background-repeat: no-repeat;
+}
+
+main{
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.homebutton{
+    padding-top: 10px;
+    padding-right: 10px;
+}
+
+.button{
+    padding: 2px 2px;
+    font-size: 20px;
+    font-family: "Verdana";
+    margin: 1px;
+    transition: 0.3s;
+    position: relative;
+    background: #68ffff;
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    border-radius: 10px;
+}
+
+.button:hover{
+    color:#ff0404;
+}
+
+.title{
+    color:rgb(119, 223, 115);
+    font-family: Verdana;
+    font-size: 40px;
+    text-align: center;
+    font-weight: bold;
+    margin-top: 70px;
+}
+.pie {
+    height: 400px;
+    width: 400px;
+    border-radius: 50%;
+    background: conic-gradient(#ff5151 61.8%, #3cff00 38.2% 100%);
+    margin-left: auto; 
+    margin-right: auto;
+    margin-top: 50px;
+}
+
+#legenda {
+  margin-left: auto;
+  margin-right: auto;
+  padding: 50px;
+}
+
+.entry {
+  display: flex;
+  align-items: center;
+}
+
+.entry-color {
+    height: 20px;
+    width: 20px;
+    margin-left: auto;
+    margin-right: 5px;
+}
+
+.entry-text {
+  margin-left: 5px;
+  margin-right: auto;
+  color: white;
+  font-size: 25px;
+}
+
+#color-1 {
+    background-color: #3cff00;
+  }
+
+#color-2 {
+  background-color: #ff5151;
+}

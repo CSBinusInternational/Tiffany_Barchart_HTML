@@ -1,0 +1,39 @@
+body {
+    background-image:url(https://www.teahub.io/photos/full/73-735767_titanic-wallpapers-full-hd.jpg);
+    background-size:cover;
+    background-repeat: no-repeat;
+}
+.hometitle{
+    text-align: center;
+    color:rgb(149, 255, 241);
+    margin-top: 120px;
+    font-size: 40px;
+}
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 10px;
+    width: 600px;
+    border-radius: 10px;
+}
+.container{
+    text-align: center;
+    margin-top: 10px;
+}
+.button{
+    padding: 10px 10px;
+    font-size: 30px;
+    font-family: "Times New Roman";
+    margin: 10px;
+    transition: 0.5s;
+    position: relative;
+    overflow: hidden;
+    background: rgb(118, 255, 94);
+    color: blue;
+    text-decoration: none;
+    border-radius: 50px;
+}
+.button:hover{
+    color:#e44515;
+}
